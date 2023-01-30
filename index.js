@@ -14,6 +14,7 @@ fetch('https://www.roh.org.uk/api/event-details?slug=turandot-by-andrei-serban')
         <p>Title: ${title}</p>
         <p>Date: ${date}</p>
         <p>Description: ${shortDescription}</p>
+        <p>Creatives: ${creatives}</p>
     `;
     })
     .catch(error => {
