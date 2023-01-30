@@ -1,0 +1,9 @@
+/* Steps 
+
+1. Use fetch() to access the JSON data from the api
+2. Console.log the data to check data is being returned
+3. Adjust the js code to acccess the data elements needed
+4. Create an html file to display the results in the browser
+5. Style the html using a separate css file 
+
+*/
